@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Icl</string>
+    <string name="banco_text">Banco</string>
+    <string name="vence_text">Vence</string>
+    <string name="fecha">12/21</string>
+    <string name="btn_text">Escanear Tarjeta</string>
+    <string name="numero_cuenta">****    ****    ****    0011</string>
+</resources>
